@@ -15,7 +15,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="PASTE_API_KEY_KAMU_DI_SINI" />
+            android:value="AIzaSyChKKVFbPWPXJVapMVCcmAAF6VMGNFo7iU" />
 
         <activity
             android:name=".MapsActivity"
